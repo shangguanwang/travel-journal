@@ -1,2 +1,2 @@
 # travel-journal
-travel jounal
+using React props.
